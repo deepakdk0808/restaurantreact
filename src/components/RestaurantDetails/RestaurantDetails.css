@@ -1,0 +1,56 @@
+.flex1{
+    display: flex;
+   gap: 50px;
+}
+
+.flax{
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    width: 450px;
+    height: 250px;
+}
+.font{
+    font-size: 20px;
+    font-weight: bold;
+    border: 1px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 3px;
+}
+.margin{
+    margin-left: 45%;
+    padding: 25px;
+}
+
+.stars{
+    margin-left: 20%;
+    
+}
+.stars>button{
+    background-color: brown;
+    color: white;
+    margin: 5px;
+}
+.payment{
+    margin-left: 20%;
+}
+.payment>button{
+    background-color: blue;
+    color: white;
+    margin: 5px;
+}
+.order{
+    margin-left: 20%;
+}
+.order>button{
+    background-color: black;
+    color: white;
+    margin: 5px;
+}
+.margin>button{
+    background-color: ghostwhite;
+    color: black;
+    margin: 5px;
+}
